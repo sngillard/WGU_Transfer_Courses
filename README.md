@@ -1,6 +1,6 @@
 [CS107: Database Fundamentals- final project](CS107_Database_Fundamentals.pdf)
 
-[CS202: Network and System Security- final project assignment 1] (CS202_assignment1_SarahGillard.pdf)
+[CS202: Network and System Security- final project assignment 1](CS202_assignment1_SarahGillard.pdf)
 
 [CS204: Database Programming- final project](CS204_Database_Programming.pdf)
 
