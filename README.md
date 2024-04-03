@@ -12,8 +12,6 @@
 
 [CS306: Computer Architecture- final project assignment 2](https://github.com/sngillard/WGU_Transfer_Courses/blob/c7ff91290607b8b785fd864813cff599ac796a8f/CS306_assignment%202_SarahGillard.pdf)
 
-[CS306:](CS306_assignment 2_SarahGillard.pdf)
-
 [CS1015: Introduction to Networking- final project](CS1015_Intro_To_Networking.pdf)
 
 [CS1100: Introduction to Python Programming- final project](CS1100_Intro_To_Python.pdf)
