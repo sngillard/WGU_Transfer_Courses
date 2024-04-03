@@ -10,6 +10,8 @@
 
 [CS303: Database Management- final project assignment 2](CS303__Database_Management_Assignment2.pdf)
 
+[CS306: Computer Architecture- final project assignment 2](CS306_assignment 2_SarahGillard.pdf)
+
 [CS1015: Introduction to Networking- final project](CS1015_Intro_To_Networking.pdf)
 
 [CS1100: Introduction to Python Programming- final project](CS1100_Intro_To_Python.pdf)
