@@ -16,7 +16,7 @@
 
 [CS306: Computer Architecture- final project assignment 2](https://github.com/sngillard/WGU_Transfer_Courses/blob/c7ff91290607b8b785fd864813cff599ac796a8f/CS306_assignment%202_SarahGillard.pdf)
 
-[CS311: Introduction to Artificial Intelligence](CS311_assignment1_SarahGillard.pdf)
+[CS311: Introduction to Artificial Intelligence- final project assignment 1](CS311_assignment1_SarahGillard.pdf)
 
 [CS1015: Introduction to Networking- final project](CS1015_Intro_To_Networking.pdf)
 
