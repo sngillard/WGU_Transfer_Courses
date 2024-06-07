@@ -18,6 +18,8 @@
 
 [CS311: Introduction to Artificial Intelligence- final project assignment 1](CS311_assignment1_SarahGillard.pdf)
 
+[CS311: Introduction to Artificial Intelligence- final project assignment 2](CS311_assignment2_SarahGillard.pdf)
+
 [CS1015: Introduction to Networking- final project](CS1015_Intro_To_Networking.pdf)
 
 [CS1100: Introduction to Python Programming- final project](CS1100_Intro_To_Python.pdf)
