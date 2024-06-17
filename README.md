@@ -1,4 +1,8 @@
-At Western Governors University, I am pursuing an affordable ABET-accredited bachelor's degree in computer science through their self-paced online program. Before enrollment, I transferred core credits from my previous degree and completed several ACE-accredited courses in computer science and mathematics, which are required for the degree. I am set to begin my studies at WGU on August 1, 2024, with an expected graduation date of 2025, completing the remaining classes required to earn a Bachelor of Science in Computer Science. Some courses required only a final exam, while others included additional requirements such as papers and projects, as listed below.
+At Western Governors University, I am pursuing an affordable ABET-accredited bachelor's degree in computer science through their self-paced online program. Before enrollment, I transferred core credits from my previous degree and completed several ACE-accredited courses in computer science and mathematics, which are required for the degree. I am set to begin my studies at WGU on August 1, 2024, with an expected graduation date of 2025, completing the remaining classes required to earn a Bachelor of Science in Computer Science. 
+
+[Credly by Pearson](https://www.credly.com/users/sarah-gillard.97831083)
+
+Some courses required only a final exam, while others included additional requirements such as papers and projects which are listed below.
 
 [CS107: Database Fundamentals- final project](CS107_Database_Fundamentals.pdf)
 
