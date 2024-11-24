@@ -35,24 +35,10 @@ These are assignments from the transfer courses. Some courses required only a fi
 While we are not permitted to publicly share code for WGU assignments, we can share GitLab links to WGU projects with potential employers.
 
 <strong>At WGU, I will take the following courses to complete the degree:</strong>
-Version Control
-Java Fundamentals
-Java Frameworks
-Back-End Programming
-Advanced Java
-Discrete Math II
-Linux Foundations
-Operating Systems for Programmers
-Data Structures and Algorithms II
-Business of IT-Applications
-Software Engineering
-Software Design and Quality Assurance
-Computer Science Capstone
+Version Control, Java Fundamentals, Java Frameworks, Back-End Programming, Advanced Java, Discrete Math II, Linux Foundations, Operating Systems for Programmers, Data Structures and Algorithms II, Business of IT-Applications, Software Engineering, Software Design and Quality Assurance, Computer Science Capstone.
 
 Additionally, I have the option to take new courses starting in January 2025, including:
-Advanced AI & Machine Learning
-AI Optimization for Computer Science
-Practical Applications of Prompt Engineering
+Advanced AI & Machine Learning, AI Optimization for Computer Science, Practical Applications of Prompt Engineering
 
 Given the growing demand for artificial intelligence skills, I plan to take advantage of these new offerings to expand my knowledge in AI and machine learning.
 
