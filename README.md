@@ -38,8 +38,7 @@ While we are not permitted to publicly share code for WGU assignments, we can sh
 Version Control, Java Fundamentals, Java Frameworks, Back-End Programming, Advanced Java, Discrete Math II, Linux Foundations, Operating Systems for Programmers, Data Structures and Algorithms II, Business of IT-Applications, Software Engineering, Software Design and Quality Assurance, Computer Science Capstone.
 
 Additionally, I have the option to take new courses starting in January 2025, including:
-Advanced AI & Machine Learning, AI Optimization for Computer Science, Practical Applications of Prompt Engineering
+Advanced AI & Machine Learning, AI Optimization for Computer Science, Practical Applications of Prompt Engineering. Given the growing demand for artificial intelligence skills, I plan to take advantage of these new offerings to expand my knowledge in AI and machine learning.
 
-Given the growing demand for artificial intelligence skills, I plan to take advantage of these new offerings to expand my knowledge in AI and machine learning.
-
+As of November 2024, I have completed 72% of the requirements for my Bachelor of Science in Computer Science.
 
