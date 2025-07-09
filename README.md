@@ -43,7 +43,7 @@ As of July 8, 2025, I have completed 87% of my Bachelor of Science in Computer S
 - Advanced Java - D387
 - Linux Foundations - D281
 
-In January 2025, I decided to switch to the new program track at WGU, which includes additional AI-focused courses. While some courses I had planned to take were no longer required, I am excited to pursue courses in **AI & Machine Learning** and **AI Optimization for Computer Scientists** to build expertise in this rapidly growing field.
+In January 2025, I decided to switch to the new program track at WGU, which includes additional AI-focused courses. While some of the courses I had already completed are no longer required in the updated program, I am excited to pursue AI & Machine Learning and AI Optimization for Computer Scientists to gain experience and explore this rapidly growing field.
 
 ### Term 2 (February 2025 - July 2025)
 - Introduction to Computer Science - D684
