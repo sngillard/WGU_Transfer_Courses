@@ -16,19 +16,30 @@ Before enrollment at WGU, I transferred core credits from my previous degrees an
 These are assignments from the transfer courses. Some courses required only a final exam, while others included additional requirements such as papers and projects which are listed below.
 
 - [CS1015: Introduction to Networking - final project](CS1015_Intro_To_Networking.pdf)
+ *Developed a comprehensive network proposal for a mid-sized company merger, including recommendations for network architecture, security measures, and scalability. Designed client-server infrastructure with LAN segmentation, VPN for remote access, and implemented best practices for network security and hardware selection.*
 - [CS107: Database Fundamentals - final project](CS107_Database_Fundamentals.pdf)
+  *Designed and implemented a database schema using MySQL Workbench, including creating tables, adding data, and performing queries to demonstrate data integrity.*
 - [CS1100: Introduction to Python Programming - final project](CS1100_Intro_To_Python.pdf)
+  *Built a Python program for weight unit conversion between pounds and kilograms. Applied functions, conditional statements, and input validation to create an interactive console application.*
 - [CS1101: Introduction to Java Programming - final project](CS1101_Intro_To_Java.pdf)
-- [CS201: Data Structures & Algorithms - final project](cs201_Data_Structures_And_Algorithms_1.pdf)
+  *Created a Java application to convert temperatures between Celsius, Fahrenheit, and Kelvin. Designed a menu-driven program with control flow, arithmetic operations, and user input handling.*
+- [CS201: Data Structures & Algorithms - final project](cs201_Data_Structures_And_Algorithms_1.pdf)  *Developed programs demonstrating sorting algorithms (bubble sort) and Java data structures, including HashMaps and TreeMaps.* 
 - [CS202: Network and System Security - final project assignment 1](CS202_assignment1_SarahGillard.pdf)
+  *Created a network security action plan addressing key threats such as malware, phishing, and zero-day vulnerabilities. Proposed solutions using firewalls, intrusion detection systems, encryption, and multi-factor authentication to strengthen organizational security.*
 - [CS202: Network and System Security - final project assignment 2](CS202_assignment2_SarahGillard.pdf)
+  *Analyzed insecure login code and implemented security improvements using best practices to enhance overall system security.*
 - [CS204: Database Programming - final project](CS204_Database_Programming.pdf)
+  *Developed SQL procedures and functions to manipulate and retrieve data from a database, demonstrating skills in writing and debugging SQL code.*
 - [CS303: Database Management - final project assignment 1](CS303__Database_Management_Assignment1.pdf)
+  *Designed and created a sample database, implemented tables with relationships, enforced data integrity using foreign keys, and ran sample queries to verify functionality.*
 - [CS303: Database Management - final project assignment 2](CS303__Database_Management_Assignment2.pdf)
+  *Normalized a sample database to 3rd Normal Form (3NF), identified functional and transitive dependencies, and created MySQL scripts for normalized table structures.*
 - [CS306: Computer Architecture - final project assignment 1](https://github.com/sngillard/WGU_Transfer_Courses/blob/240b7f549df0c2a96b64bd6b9f4cd35788dfc2fa/CS306_assignment%201_SarahGillard.pdf)
+*Simulated an 8-bit CPU in Logisim, including an Arithmetic Logic Unit (ALU), instruction set, and simple assembly-like programs to demonstrate basic CPU operations.*
 - [CS306: Computer Architecture - final project assignment 2](https://github.com/sngillard/WGU_Transfer_Courses/blob/c7ff91290607b8b785fd864813cff599ac796a8f/CS306_assignment%202_SarahGillard.pdf)
-- [CS311: Introduction to Artificial Intelligence - final project assignment 1](CS311_assignment1_SarahGillard.pdf)
-- [CS311: Introduction to Artificial Intelligence - final project assignment 2](CS311_assignment2_SarahGillard.pdf)
+*Completed number system conversions (binary, octal, decimal, hexadecimal), created truth tables for logic gates, and simulated an 8-bit CPU to demonstrate basic arithmetic and logic operations.*
+- [CS311: Introduction to Artificial Intelligence - final project assignment 1](CS311_assignment1_SarahGillard.pdf)  *Researched AI advancements and their societal impact.*  
+- [CS311: Introduction to Artificial Intelligence - final project assignment 2](CS311_assignment2_SarahGillard.pdf)  *Developed a Java survey program to demonstrate logic, user interaction, and file handling.*  
 
 
 
