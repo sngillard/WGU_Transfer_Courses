@@ -49,9 +49,9 @@ These are assignments from the transfer courses. Some courses required only a fi
 As of July 8, 2025, I have completed 87% of my Bachelor of Science in Computer Science degree at WGU. To make this degree as affordable and efficient as possible, I transferred in credits from my previous BS in Psychology and M.Ed. and completed several prerequisite courses through accredited alternative programs. This approach allowed me to focus on the advanced computer science courses necessary for my career path while minimizing the cost of my degree.
 
 ### Term 1 (August 2024 - January 2025)
-- **Version Control** - D197  
-- **Java Fundamentals** - D286
-- **Java Frameworks** - D287
+- **D197: Version Control - final project** Set up and managed a GitLab repository with branching, committing, merging, and tagging to demonstrate version control best practices.
+- - **D286: Java Fundamentals - final exam** Passed an exam covering Java syntax, object-oriented programming, classes, methods, control flow, and basic input/output.
+- **D287: Java Frameworks - final project** - Customized a Spring-based inventory management app for a fictional guitar shop. Implemented a styled HTML/CSS user interface, added business logic for product purchasing, inventory validation, and unit testing using Java and the Spring Framework. 
 - **Back-End Programming** - D288
 - **Advanced Java** - D387
 - **Linux Foundations** - D281
