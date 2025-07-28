@@ -2,18 +2,18 @@
 
 At [Western Governors University](https://www.wgu.edu/online-it-degrees/computer-science.html), I am pursuing an affordable ABET-accredited bachelor's degree in computer science through their self-paced online program. My educational journey began after high school with a Bachelor's in Psychology and a Master's in Education. However, in my 30s, I developed a strong interest in technology, sparked by the disruptions of COVID-19. Participating in workshops like [SheCodes](https://www.shecodes.io/graduates/43613-sarah-gillard) ignited my passion for coding and led me to transition into computer science.
 
-WGU provides the flexibility to continue my education while drawing on over 10 years of experience in education (working as a teacher, substitute, and aide) as well as time in retail and recruiting. This allows me to balance my career transition into tech with the practical experience I’ve gained in multiple fields.
+WGU's flexibility allows me to continue my education while drawing on 10+ years of experience working in the education field (as a teacher, substitute, and aide), along with time in retail and recruiting. This has helped me balance my transition into tech with the practical experience I've gained in multiple fields.
 
-My interest in computer science has stayed strong even with all the changes in the field since I first started studying. While I’m not sure if I can exclusively focus on coding or web development anymore, given the changes in demand across the industry, I’m deeply curious about the many other paths within computer science and enjoy exploring its constantly evolving areas. Lately, I’ve been especially drawn to artificial intelligence and how it’s shaping the future. I’m open to exploring different roles and excited to keep building skills that let me grow with the field.
+My interest in computer science has remained strong despite the field's constant evolution. Given how quickly the industry is changing, I'm no longer set on focusing only on coding or web development. I'm deeply curious about the many other paths within computer science and enjoy exploring its rapidly growing areas. Lately, I've been especially drawn to artificial intelligence and how it's shaping the future. I'm open to exploring different roles and excited to keep building skills that let me grow with the field.
 
-Before enrollment at WGU, I transferred core credits from my previous degrees and completed several ACE-accredited courses in computer science and mathematics, which are required for the degree. I began my studies at WGU on August 1, 2024, to complete the remaining classes required to earn a Bachelor of Science in Computer Science.
+Before enrollment at WGU, I transferred core credits from my previous degrees and completed several ACE-accredited courses in computer science and mathematics. I began my studies at WGU on August 1, 2024, to complete the remaining courses required to earn a Bachelor of Science in Computer Science.
 
 ---
 
 ## Transfer Courses
 [Credly by Pearson](https://www.credly.com/users/sarah-gillard.97831083)
 
-These are assignments from the transfer courses. Some courses required only a final exam, while others included additional requirements such as papers and projects which are listed below.
+These are assignments from the transfer courses. Some required only a final exam, while others included projects or papers, as listed below.
 
 - [CS1015: Introduction to Networking - final project](CS1015_Intro_To_Networking.pdf)
  *Developed a comprehensive network proposal for a mid-sized company merger, including recommendations for network architecture, security measures, and scalability. Designed client-server infrastructure with LAN segmentation, VPN for remote access, and implemented best practices for network security and hardware selection.*
@@ -49,23 +49,23 @@ These are assignments from the transfer courses. Some courses required only a fi
 As of July 28, 2025, I have completed 91% of my Bachelor of Science in Computer Science degree at WGU. To make this degree as affordable and efficient as possible, I transferred in credits from my previous BS in Psychology and M.Ed. and completed several prerequisite courses through accredited alternative programs. This approach allowed me to focus on the advanced computer science courses necessary for my career path while minimizing the cost of my degree.
 
 ### Term 1 (August 2024 - January 2025)
-- **D197: Version Control - final project** - Set up and managed a GitLab repository with branching, committing, merging, and tagging to demonstrate version control best practices.
-- **D286: Java Fundamentals - final exam** - Passed an exam covering Java syntax, object-oriented programming, classes, methods, control flow, and basic input/output.
-- **D287: Java Frameworks - final project** - Customized a Spring-based inventory management app for a fictional guitar shop. Implemented a styled HTML/CSS user interface, added business logic for product purchasing, inventory validation, and unit testing using Java and the Spring Framework. 
-- **D288: Back-End Programming - final project** - Rebuilt a Spring-based backend for a travel booking app using provided code. Integrated MySQL, added REST APIs, and implemented validation to support an Angular front end. 
-- **D387: Advanced Java - final project** - Modified a Spring/Angular hotel booking app to support multithreaded welcome messages in English and French, time zone conversion, and price display in USD, CAD, and EUR. Built and ran a Docker container for cloud deployment. 
-- **D281: Linux Foundations - final exam** - Earned the LPI Linux Essentials certification covering Linux basics, open-source concepts, command line, and system security.  
+- **D197: Version Control - final project** - *Set up and managed a GitLab repository with branching, committing, merging, and tagging to demonstrate version control best practices.*
+- **D286: Java Fundamentals - final exam** - *Passed an exam covering Java syntax, object-oriented programming, classes, methods, control flow, and basic input/output.*
+- **D287: Java Frameworks - final project** - *Customized a Spring-based inventory management app for a fictional guitar shop. Implemented a styled HTML/CSS user interface, added business logic for product purchasing, inventory validation, and unit testing using Java and the Spring Framework.* 
+- **D288: Back-End Programming - final project** - *Rebuilt a Spring-based backend for a travel booking app using provided code. Integrated MySQL, added REST APIs, and implemented validation to support an Angular front end.* 
+- **D387: Advanced Java - final project** - *Modified a Spring/Angular hotel booking app to support multithreaded welcome messages in English and French, time zone conversion, and price display in USD, CAD, and EUR. Built and ran a Docker container for cloud deployment.* 
+- **D281: Linux Foundations - final exam** - *Earned the LPI Linux Essentials certification covering Linux basics, open-source concepts, command line, and system security.*  
 
 In January 2025, I decided to switch to the new program track at WGU, which includes additional AI-focused courses. While some of the courses I had already completed are no longer required in the updated program, I am excited to pursue **AI & Machine Learning** and **AI Optimization for Computer Scientists** to gain experience and explore this rapidly growing field.
 
 ### Term 2 (February 2025 - July 2025)
-- **D684: Introduction to Computer Science - final exam** - Passed with exemplary marks in programming constructs, ethical computing, and computer architecture & components; demonstrated strong foundational knowledge of operating system components. 
-- **D336 Business of IT - Applications - final exam** - Passed the ITIL Foundation Certification in IT Service Management through PeopleCert. Certified effective February 18, 2025 (valid through February 2028).
-- **D284: Software Engineering - final project** - Proposed and designed a web-based CRM system using Agile methodology. Created solution diagrams and a detailed test plan aligned to business, user, functional, and non-functional requirements.   
-- **D686: Operating Systems for Computer Scientists - final exam** -  Passed with exemplary marks in memory management. Demonstrated understanding of OS architecture, process and thread scheduling, multithreading, file systems and I/O strategies, as well as system-level protection and security mechanisms.
-- **D480: Software Design and Quality Assuranc e- final project** - Designed and tested a modular Java solution to correct year-selection logic in a given financial web app. Created a design plan using YearValidator, YearCalculation, and UIHandler classes to dynamically calculate five valid fiscal years. Defined business goals, outlined key requirements, and planned Agile milestones. Created a QA test plan with cases for accuracy, speed, and security.
-- **C960: Discrete Mathematics II - final exam** - Demonstrated exemplary understanding in number theory, cryptography, and recursion using induction. Competent in algorithm analysis and finite-state machines. Met foundational competency in advanced counting techniques and discrete probability.
-- **C950: Data Structures and Algorithms II - final project** - Developed a Python-based logistics routing system using a custom hash table and nearest neighbor algorithm to deliver 40 packages under 140 miles. Simulated real-time tracking, evaluated Big-O performance, and built a CLI to query package status, delivery time, and truck mileage at any point in the route.
+- **D684: Introduction to Computer Science - final exam** - *Passed with exemplary marks in programming constructs, ethical computing, and computer architecture & components; demonstrated strong foundational knowledge of operating system components.* 
+- **D336 Business of IT - Applications - final exam** - *Passed the ITIL Foundation Certification in IT Service Management through PeopleCert. Certified effective February 18, 2025 (valid through February 2028).*
+- **D284: Software Engineering - final project** - *Proposed and designed a web-based CRM system using Agile methodology. Created solution diagrams and a detailed test plan aligned to business, user, functional, and non-functional requirements.*   
+- **D686: Operating Systems for Computer Scientists - final exam** - *Passed with exemplary marks in memory management. Demonstrated understanding of OS architecture, process and thread scheduling, multithreading, file systems and I/O strategies, as well as system-level protection and security mechanisms.*
+- **D480: Software Design and Quality Assurance - final project** - *Designed and tested a modular Java solution to correct year-selection logic in a given financial web app. Created a design plan using YearValidator, YearCalculation, and UIHandler classes to dynamically calculate five valid fiscal years. Defined business goals, outlined key requirements, and planned Agile milestones. Created a QA test plan with cases for accuracy, speed, and security.*
+- **C960: Discrete Mathematics II - final exam** - *Demonstrated exemplary understanding in number theory, cryptography, and recursion using induction. Competent in algorithm analysis and finite-state machines. Met foundational competency in advanced counting techniques and discrete probability.*
+- **C950: Data Structures and Algorithms II - final project** - *Developed a Python-based logistics routing system using a custom hash table and nearest neighbor algorithm to deliver 40 packages under 140 miles. Simulated real-time tracking, evaluated Big-O performance, and built a CLI to query package status, delivery time, and truck mileage at any point in the route.*
 
 ---
 
