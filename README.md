@@ -46,30 +46,30 @@ These are assignments from the transfer courses. Some courses required only a fi
 ---
 
 ## Courses Taken at WGU
-As of July 8, 2025, I have completed 87% of my Bachelor of Science in Computer Science degree at WGU. To make this degree as affordable and efficient as possible, I transferred in credits from my previous BS in Psychology and M.Ed. and completed several prerequisite courses through accredited alternative programs. This approach allowed me to focus on the advanced computer science courses necessary for my career path while minimizing the cost of my degree.
+As of July 28, 2025, I have completed 91% of my Bachelor of Science in Computer Science degree at WGU. To make this degree as affordable and efficient as possible, I transferred in credits from my previous BS in Psychology and M.Ed. and completed several prerequisite courses through accredited alternative programs. This approach allowed me to focus on the advanced computer science courses necessary for my career path while minimizing the cost of my degree.
 
 ### Term 1 (August 2024 - January 2025)
-- **D197: Version Control - final project** Set up and managed a GitLab repository with branching, committing, merging, and tagging to demonstrate version control best practices.
-- - **D286: Java Fundamentals - final exam** Passed an exam covering Java syntax, object-oriented programming, classes, methods, control flow, and basic input/output.
+- **D197: Version Control - final project** - Set up and managed a GitLab repository with branching, committing, merging, and tagging to demonstrate version control best practices.
+- **D286: Java Fundamentals - final exam** - Passed an exam covering Java syntax, object-oriented programming, classes, methods, control flow, and basic input/output.
 - **D287: Java Frameworks - final project** - Customized a Spring-based inventory management app for a fictional guitar shop. Implemented a styled HTML/CSS user interface, added business logic for product purchasing, inventory validation, and unit testing using Java and the Spring Framework. 
-- **Back-End Programming** - D288
-- **Advanced Java** - D387
-- **Linux Foundations** - D281
+- **D288: Back-End Programming - final project** - Rebuilt a Spring-based backend for a travel booking app using provided code. Integrated MySQL, added REST APIs, and implemented validation to support an Angular front end. 
+- **D387: Advanced Java - final project** - Modified a Spring/Angular hotel booking app to support multithreaded welcome messages in English and French, time zone conversion, and price display in USD, CAD, and EUR. Built and ran a Docker container for cloud deployment. 
+- **D281: Linux Foundations - final exam** - Earned the LPI Linux Essentials certification covering Linux basics, open-source concepts, command line, and system security.  
 
 In January 2025, I decided to switch to the new program track at WGU, which includes additional AI-focused courses. While some of the courses I had already completed are no longer required in the updated program, I am excited to pursue **AI & Machine Learning** and **AI Optimization for Computer Scientists** to gain experience and explore this rapidly growing field.
 
 ### Term 2 (February 2025 - July 2025)
-- **Introduction to Computer Science** - D684
-- **Business of IT - Applications** - D336
-- **Software Engineering** - D284  
-- **Operating Systems for Computer Scientists** - D686 
-- **Software Design and Quality Assurance** - D480
-- **Discrete Mathematics II** - C960
-- **Data Structures and Algorithms II** - C950
+- **D684: Introduction to Computer Science - final exam** - Passed with exemplary marks in programming constructs, ethical computing, and computer architecture & components; demonstrated strong foundational knowledge of operating system components. 
+- **D336 Business of IT - Applications - final exam** - Passed the ITIL Foundation Certification in IT Service Management through PeopleCert. Certified effective February 18, 2025 (valid through February 2028).
+- **D284: Software Engineering - final project** - Proposed and designed a web-based CRM system using Agile methodology. Created solution diagrams and a detailed test plan aligned to business, user, functional, and non-functional requirements.   
+- **D686: Operating Systems for Computer Scientists - final exam** -  Passed with exemplary marks in memory management. Demonstrated understanding of OS architecture, process and thread scheduling, multithreading, file systems and I/O strategies, as well as system-level protection and security mechanisms.
+- **D480: Software Design and Quality Assuranc e- final project** - Designed and tested a modular Java solution to correct year-selection logic in a given financial web app. Created a design plan using YearValidator, YearCalculation, and UIHandler classes to dynamically calculate five valid fiscal years. Defined business goals, outlined key requirements, and planned Agile milestones. Created a QA test plan with cases for accuracy, speed, and security.
+- **C960: Discrete Mathematics II - final exam** - Demonstrated exemplary understanding in number theory, cryptography, and recursion using induction. Competent in algorithm analysis and finite-state machines. Met foundational competency in advanced counting techniques and discrete probability.
+- **C950: Data Structures and Algorithms II - final project** - Developed a Python-based logistics routing system using a custom hash table and nearest neighbor algorithm to deliver 40 packages under 140 miles. Simulated real-time tracking, evaluated Big-O performance, and built a CLI to query package status, delivery time, and truck mileage at any point in the route.
 
 ---
 
-## Remaining Courses
+## Term 3 (Starting August 1, 2025)
 - **Introduction to AI for Computer Scientists** - D429
 - **Artificial Intelligence Optimization for Computer Scientists** - D682
 - **Advanced AI and ML** - D683
