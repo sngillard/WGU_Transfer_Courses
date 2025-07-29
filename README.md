@@ -70,10 +70,10 @@ In January 2025, I decided to switch to the new program track at WGU, which incl
 ---
 
 ## Term 3 (Starting August 1, 2025)
-- **Introduction to AI for Computer Scientists** - D429
-- **Artificial Intelligence Optimization for Computer Scientists** - D682
-- **Advanced AI and ML** - D683
-- **Computer Science Project Development with a Team (Capstone)** - D687
+- **D429: Introduction to AI for Computer Scientists** 
+- **D682: Artificial Intelligence Optimization for Computer Scientists** 
+- **D683: Advanced AI and ML** 
+- **D687: Computer Science Project Development with a Team (Capstone)** 
 
 **I plan to complete the program by the end of August 2025.**
 
